@@ -1,4 +1,4 @@
-Creating-Customer-Segments-with-Arvato
+**Creating-Customer-Segments-with-Arvato**
 
 Unsupervised Learning Project of Udacity Data Scientist Nanodegree
 
