@@ -1,13 +1,15 @@
 Creating-Customer-Segments-with-Arvato
+
 Unsupervised Learning Project of Udacity Data Scientist Nanodegree
 
 Table of Contents
 
-Installation
-Project Motivation
-File Descriptions
-Results
-Licensing, Authors, and Acknowledgements
+1-Installation
+2-Project Motivation
+3-File Descriptions
+4-Results
+5-Licensing, Authors, and Acknowledgements
+
 Installation
 The following libraries are expected to be used in this project:
 
