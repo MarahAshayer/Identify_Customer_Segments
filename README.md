@@ -14,15 +14,18 @@ Table of Contents
 
 5-Licensing, Authors, and Acknowledgements
 
-Installation
+ **Installation**
+
 The following libraries are expected to be used in this project:
 
-NumPy
-pandas
-Sklearn / scikit-learn
-Matplotlib (for data visualization)
-Seaborn (for data visualization) The code should run with no issues using Python versions 3.*.
+-NumPy
+-pandas
+-Sklearn / scikit-learn
+-Matplotlib (for data visualization)
+-Seaborn (for data visualization) The code should run with no issues using Python versions 3.*.
+
 Project Motivation
+
 I've learned about unsupervised learning techniques that allow me to summarize the dimensions of my data and cluster unlabeled data into groups with similar properties, it's time to apply my knowledge to some real-life data. In this project, Bertelsmann partners AZ Direct and Arvato Financial Solutions have provided two datasets one with demographic information about the people of Germany, and one with that same information for customers of a mail-order sales company. We looked at relationships between demographics features, organized the population into clusters, and saw how prevalent customers are in each of the segments obtained.
 
 File Descriptions
